@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mgsrevolver-seo-inspector-mcp-badge.png)](https://mseep.ai/app/mgsrevolver-seo-inspector-mcp)
+
 // README.md - Instructions for setup and use
 
 # SEO Inspector & Schema Validator MCP
